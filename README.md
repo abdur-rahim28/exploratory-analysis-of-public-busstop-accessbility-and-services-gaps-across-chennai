@@ -62,5 +62,9 @@ Data-Analysis-Python-Project/
 5. Run `Python/data_visualization.py`.
 6. Open `Notebook/Data_Analysis_EDA.ipynb`.
 
-## Important Note
-This is an exploratory audit analysis. It identifies observed conditions in the supplied dataset; it should not be interpreted as a complete census of every bus stop in Chennai unless the sampling design supports that claim.
+## Authour
+. Name : Abdur Rahim A
+. Student id : AF05310150
+. Organaization : Anudip foundation
+. Course : AIML
+. Batch Code : ANP-D7444
