@@ -62,9 +62,10 @@ Data-Analysis-Python-Project/
 5. Run `Python/data_visualization.py`.
 6. Open `Notebook/Data_Analysis_EDA.ipynb`.
 
-## Authour
-. Name : Abdur Rahim A
-. Student id : AF05310150
-. Organaization : Anudip foundation
-. Course : AIML
-. Batch Code : ANP-D7444
+## Author
+
+- **Name:** Abdur Rahim A
+- **Student ID:** AF05310150
+- **Organization:** Anudip Foundation
+- **Course:** AIML
+- **Batch Code:** ANP-D7444
